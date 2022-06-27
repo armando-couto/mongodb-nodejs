@@ -8,7 +8,7 @@
     "crypto": "~0.0.3",
     "mongodb": "3.1.13",
     "express": "3.11.0",
-    "swig": "~0.14.0"
+    "swig": "1.4.2"
   },
   "author": "You",
   "license": "BSD",
