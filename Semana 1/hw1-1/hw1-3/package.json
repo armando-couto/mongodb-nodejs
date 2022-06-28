@@ -5,7 +5,7 @@
   "main": "app.js",
   "dependencies": {
     "consolidate": "0.16.0",
-    "crypto": "~0.0.3",
+    "crypto": "0.0.3",
     "express": "3.11.0",
     "mongodb": "3.1.13",
     "swig": "1.4.2"
